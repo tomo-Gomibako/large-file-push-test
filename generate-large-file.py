@@ -20,4 +20,4 @@ def generate(mb, filename):
     print(os.path.getsize(filename))
 
 if __name__ == "__main__":
-    generate(103, "large.txt")
+    generate(104, "large.txt")
